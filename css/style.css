@@ -1,0 +1,16 @@
+.header, .upper, .body, .bar, .footer{
+    background-color: rgb(134, 227, 227);
+    margin-bottom: 10px;
+}
+.box{
+    margin: 10px 0;
+    font-size: 30px;
+    min-height: 80px;
+    background-color: rgb(134, 216, 107);
+}
+.violet{
+    background-color: rgb(173, 99, 243);
+}
+.coral{
+    background-color: coral;
+}
